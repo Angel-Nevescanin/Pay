@@ -1,0 +1,6 @@
+mx\itson\pay\entities\User.class
+mx\itson\pay\enums\Difficulty.class
+mx\itson\pay\ui\Main.class
+mx\itson\pay\entities\Recipe.class
+mx\itson\pay\entities\Direction.class
+mx\itson\pay\entities\NutritionFact.class
